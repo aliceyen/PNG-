@@ -1,5 +1,4 @@
-# PNG-
-PNG樣式沿用成筆刷技巧
+png illustrator brush techniques
 
 1.不管是光線型的或是線條型的都可以在illustrator裡改成筆刷，首先先把素材存成png(原為向量的也可以)，並崁入illustrator
  ![image](https://github.com/aliceyen/PNG-/assets/43776397/02a51baa-080e-4ba6-ba83-f1f0b8280312)
